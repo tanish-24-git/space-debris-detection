@@ -1,0 +1,22 @@
+names:
+- cheops
+- debris
+- double_start
+- earth_observation_sat_1
+- lisa_pathfinder
+- proba_2
+- proba_3_csc
+- proba_3_ocs
+- smart_1
+- soho
+- xmm_newton
+nc: 11
+roboflow:
+  license: CC BY 4.0
+  project: space-debris-mugw2-jrufd-apdqa
+  url: https://universe.roboflow.com/space-debris-veh5c/space-debris-mugw2-jrufd-apdqa/dataset/2
+  version: 2
+  workspace: space-debris-veh5c
+test: C:/Users/ASUS/OneDrive/Desktop/bits/Space-debris-2/test
+train: C:/Users/ASUS/OneDrive/Desktop/bits/Space-debris-2/train
+val: C:/Users/ASUS/OneDrive/Desktop/bits/Space-debris-2/valid
